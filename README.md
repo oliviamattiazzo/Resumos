@@ -8,11 +8,25 @@ Então decidi começar a compartilhar as minhas notas aqui, tanto pra mim mesma 
 
 ## Índice
 
-Por enquanto, não tenho nenhum resumo feito! :sweat_smile:
+### Em desenvolvimento
+- [ ] **[C#]** [Entity Framework](https://github.com/oliviamattiazzo/Resumos/tree/master/EntityFramework)
+    - [X] Aula 01
+    - [ ] Aula 02
+    - [ ] Aula 03
+    - [ ] Aula 04
+    - [ ] Aula 05
+    - [ ] Aula 06
+    - [ ] Aula 07
+    - [ ] Aula 08
+
+### Finalizados
+
+Ops, por enquanto não tenho nada finalizado! 😅
+
+Você pode conferir acima o progresso dos resumos de cada curso.
 
 ## À fazer
 
-- [ ] **[C#]** Entity Framework
 - [ ] **[CSS]** Imersão CSS da [Alura](https://www.alura.com.br/)
 - [ ] **[C#]** Testes de Unidade Com xUnit
 - [ ] **[Redes sociais]** Twitter
