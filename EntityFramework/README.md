@@ -5,7 +5,7 @@ Curso ministrado pelo professor Daniel Portugal na plataforma [Alura](https://cu
 ## Índice de resumos
 
 - [X] Aula 01 - [Introdução ao Entity Framework Core](https://github.com/oliviamattiazzo/Resumos/blob/master/EntityFramework/Aula01_IntroducaoEntityFrameworkCore.md)
-- [ ] Aula 02 - Manipulando objetos
+- [X] Aula 02 - [Manipulando objetos](https://github.com/oliviamattiazzo/Resumos/blob/master/EntityFramework/Aula02_ManipulandoObjetos.md)
 - [ ] Aula 03 - Como Entity monta o SQL?
 - [ ] Aula 04 - Sincronizando o banco de dados com o modelo de classes
 - [ ] Aula 05 - Relacionamentos Um para Muitos no Entity

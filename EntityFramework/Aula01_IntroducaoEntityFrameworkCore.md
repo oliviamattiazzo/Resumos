@@ -27,4 +27,6 @@ Observação: esse resumo foi elaborado no dia 12/01/2020, se houve alguma atual
 ### → Como instalar
 * Via console do NuGet:
 
-``` Install-Package Microsoft.EntityFrameworkCore.SqlServer -Version[XX]```
+```csharp 
+Install-Package Microsoft.EntityFrameworkCore.SqlServer -Version[XX]
+```

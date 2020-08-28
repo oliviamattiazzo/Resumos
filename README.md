@@ -6,6 +6,8 @@ Atualmente, eu tenho um caderno aqui em casa, bem organizadinho (embora minha le
 
 Então decidi começar a compartilhar as minhas notas aqui, tanto pra mim mesma quanto para qualquer outro que possa se beneficiar delas. :v:
 
+:warning: **Observação importante:** como o próprio nome diz, isso são **resumos**. Não há pretensão alguma de ensinar algo de uma forma detalhada, como um tutorial. São anotações que podem ajudar caso alguém faça os mesmos cursos que eu, ou para consultas casuais, bele? Bele. :call_me_hand:
+
 ## Status
 
 ### Finalizados
@@ -17,7 +19,7 @@ Você pode conferir acima o progresso dos resumos de cada curso.
 ### Em desenvolvimento
 - [ ] **[C#]** [Entity Framework](https://github.com/oliviamattiazzo/Resumos/tree/master/EntityFramework)
     - [X] Aula 01
-    - [ ] Aula 02
+    - [X] Aula 02
     - [ ] Aula 03
     - [ ] Aula 04
     - [ ] Aula 05
