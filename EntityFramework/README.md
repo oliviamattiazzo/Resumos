@@ -1,5 +1,7 @@
 # Curso: [Entity Framework Core: Banco de dados de forma eficiente](https://cursos.alura.com.br/course/entity-framework-core)
 
+Curso ministrado pelo professor Daniel Portugal na plataforma [Alura](https://cursos.alura.com.br/dashboard).
+
 ## Índice de resumos
 
 - [ ] Aula 01 - Introdução ao Entity Framwork Core
