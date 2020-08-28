@@ -6,7 +6,13 @@ Atualmente, eu tenho um caderno aqui em casa, bem organizadinho (embora minha le
 
 Então decidi começar a compartilhar as minhas notas aqui, tanto pra mim mesma quanto para qualquer outro que possa se beneficiar delas. :v:
 
-## Índice
+## Status
+
+### Finalizados
+
+Ops, por enquanto não tenho nada finalizado! 😅
+
+Você pode conferir acima o progresso dos resumos de cada curso.
 
 ### Em desenvolvimento
 - [ ] **[C#]** [Entity Framework](https://github.com/oliviamattiazzo/Resumos/tree/master/EntityFramework)
@@ -19,13 +25,7 @@ Então decidi começar a compartilhar as minhas notas aqui, tanto pra mim mesma 
     - [ ] Aula 07
     - [ ] Aula 08
 
-### Finalizados
-
-Ops, por enquanto não tenho nada finalizado! 😅
-
-Você pode conferir acima o progresso dos resumos de cada curso.
-
-## À fazer
+### À fazer
 
 - [ ] **[CSS]** Imersão CSS da [Alura](https://www.alura.com.br/)
 - [ ] **[C#]** Testes de Unidade Com xUnit
