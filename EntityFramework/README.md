@@ -4,7 +4,7 @@ Curso ministrado pelo professor Daniel Portugal na plataforma [Alura](https://cu
 
 ## Índice de resumos
 
-- [ ] Aula 01 - Introdução ao Entity Framwork Core
+- [X] Aula 01 - [Introdução ao Entity Framwork Core](https://github.com/oliviamattiazzo/Resumos/blob/master/EntityFramework/Aula01_IntroducaoEntityFrameworkCore.md)
 - [ ] Aula 02 - Manipulando objetos
 - [ ] Aula 03 - Como Entity monta o SQL?
 - [ ] Aula 04 - Sincronizando o banco de dados com o modelo de classes
