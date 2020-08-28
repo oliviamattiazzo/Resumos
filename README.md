@@ -8,6 +8,8 @@ Então decidi começar a compartilhar as minhas notas aqui, tanto pra mim mesma 
 
 ## Índice
 
+Por enquanto, não tenho nenhum resumo feito! :sweat_smile:
+
 ## À fazer
 
 - [ ] **[C#]** Entity Framework
@@ -17,3 +19,17 @@ Então decidi começar a compartilhar as minhas notas aqui, tanto pra mim mesma 
 - [ ] **[Javascript]** Browser e padrões de projeto
 - [ ] **[Marketing Digital]** Introdução à SEO
 - [ ] **[C#]** Refatoração
+
+## Créditos
+
+Olá! Meu nome é Olivia. Eu sou uma desenvolvedora web, focada em tecnologias Microsoft (.NET/C# são meus favoritos). Sou mais backend do que qualquer coisa, mas às vezes me arrisco no front (menos do que eu deveria, confesso).
+
+Fique à vontade para me contatar com qualquer pergunta, dicas ou feedbacks sobre esses resumos. Vou ficar muito feliz em ouvir e responder!
+
+:envelope: Email: oli.pmatt@gmail.com
+
+:globe_with_meridians: Blog: [oliviamattiazzo.dev](http://oliviamattiazzo.dev/)
+
+:hatched_chick: Twitter: [@oliviamattiazzo](https://twitter.com/oliviamattiazzo)
+
+:iphone: [Linkedin](https://www.linkedin.com/in/olivia-pachele-mattiazzo-433a8711b/)
