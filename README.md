@@ -10,10 +10,10 @@ Então decidi começar a compartilhar as minhas notas aqui, tanto pra mim mesma 
 
 ## À fazer
 
-- [ ] **C#** Entity Framework
-- [ ] **CSS** Imersão CSS da [Alura](https://www.alura.com.br/)
-- [ ] **C#** Testes de Unidade Com xUnit
-- [ ] **Redes sociais** Twitter
-- [ ] **Javascript** Browser e padrões de projeto
-- [ ] **Marketing Digital** Introdução à SEO
-- [ ] **C#** Refatoração
+- [ ] **[C#]** Entity Framework
+- [ ] **[CSS]** Imersão CSS da [Alura](https://www.alura.com.br/)
+- [ ] **[C#]** Testes de Unidade Com xUnit
+- [ ] **[Redes sociais]** Twitter
+- [ ] **[Javascript]** Browser e padrões de projeto
+- [ ] **[Marketing Digital]** Introdução à SEO
+- [ ] **[C#]** Refatoração
