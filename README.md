@@ -20,7 +20,7 @@ Você pode conferir acima o progresso dos resumos de cada curso.
 - [ ] **[C#]** [Entity Framework](https://github.com/oliviamattiazzo/Resumos/tree/master/EntityFramework)
     - [X] Aula 01
     - [X] Aula 02
-    - [ ] Aula 03
+    - [X] Aula 03
     - [ ] Aula 04
     - [ ] Aula 05
     - [ ] Aula 06
