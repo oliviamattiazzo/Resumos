@@ -1,5 +1,7 @@
 # Aula 04 - Sincronizando o banco de dados com o modelo de classes
 
+Observação: esse resumo foi elaborado no dia 26/01/2020, se houve alguma atualização na aula do curso, esta não foi contemplada aqui.
+
 ### → DDL
 * Data Definition Language
 * Subconjunto da linguagem SQL
