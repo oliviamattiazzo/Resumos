@@ -23,7 +23,7 @@ Você pode conferir acima o progresso dos resumos de cada curso.
     - [X] Aula 03
     - [X] Aula 04
     - [X] Aula 05
-    - [ ] Aula 06
+    - [X] Aula 06
     - [ ] Aula 07
     - [ ] Aula 08
 

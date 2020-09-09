@@ -9,7 +9,7 @@ Curso ministrado pelo professor Daniel Portugal na plataforma [Alura](https://cu
 - [X] Aula 03 - [Como Entity monta o SQL?](https://github.com/oliviamattiazzo/Resumos/blob/master/EntityFramework/Aula03_ComoEntityMontaSQL.md)
 - [X] Aula 04 - [Sincronizando o banco de dados com o modelo de classes](https://github.com/oliviamattiazzo/Resumos/blob/master/EntityFramework/Aula04_SincronizandoBdComModeloClasses.md)
 - [X] Aula 05 - [Relacionamentos Um para Muitos no Entity](https://github.com/oliviamattiazzo/Resumos/blob/master/EntityFramework/Aula05_RelacionamentosUmParaMuitosEntity.md)
-- [ ] Aula 06 - Relacionamentos Muitos para Muitos no Entity
+- [X] Aula 06 - [Relacionamentos Muitos para Muitos no Entity](https://github.com/oliviamattiazzo/Resumos/blob/master/EntityFramework/Aula06_RelacionamentosMuitosParaMuitosEntity.md)
 - [ ] Aula 07 - Relacionamentos Um para Um no Entity
 - [ ] Aula 08 - Recuperando objetos relacionados
 
@@ -19,3 +19,4 @@ Curso ministrado pelo professor Daniel Portugal na plataforma [Alura](https://cu
 
 **Finalizado em:** 08/05/2020
 
+**Última atualização destes resumos em:** 06/09/2020
