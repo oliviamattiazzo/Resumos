@@ -1,0 +1,19 @@
+# Curso: [Imersão CSS](https://www.alura.com.br/imersao-css)
+
+Curso ministrado pelas professoras Vanessa Tonini e Juliana Amoasei da [Alura](https://cursos.alura.com.br/dashboard).
+
+## Índice de resumos
+
+- [X] Aula 01 - [Página pessoal](https://github.com/oliviamattiazzo/Resumos/blob/master/ImersaoCSS/Aula01_PaginaPessoal.md)
+- [ ] Aula 02 - Sites responsivos
+- [ ] Aula 03 - Colunas e linhas
+- [ ] Aula 04 - Animando tudo!
+- [ ] Aula 05 - Efeitos visuais
+
+## Datas
+
+**Curso iniciado em:** 18/05/2020
+
+**Finalizado em:** 22/05/2020
+
+**Última atualização destes resumos em:** 10/09/2020

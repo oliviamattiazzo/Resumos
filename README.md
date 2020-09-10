@@ -15,11 +15,16 @@ Então decidi começar a compartilhar as minhas notas aqui, tanto pra mim mesma 
 - [X] **[C#]** [Entity Framework](https://github.com/oliviamattiazzo/Resumos/tree/master/EntityFramework)
 
 ### Em desenvolvimento
-Oops :woman_shrugging:
+
+- [ ] **[CSS]** [Imersão CSS da Alura](https://github.com/oliviamattiazzo/Resumos/tree/master/ImersaoCSS)
+    - [X] Aula 01
+    - [ ] Aula 02
+    - [ ] Aula 03
+    - [ ] Aula 04
+    - [ ] Aula 05
 
 ### À fazer
 
-- [ ] **[CSS]** Imersão CSS da [Alura](https://www.alura.com.br/)
 - [ ] **[C#]** Testes de Unidade Com xUnit
 - [ ] **[Redes sociais]** Twitter
 - [ ] **[Javascript]** Browser e padrões de projeto
