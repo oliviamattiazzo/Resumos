@@ -12,7 +12,7 @@ Então decidi começar a compartilhar as minhas notas aqui, tanto pra mim mesma 
 
 ### Finalizados
 
-- [ ] **[C#]** [Entity Framework](https://github.com/oliviamattiazzo/Resumos/tree/master/EntityFramework)
+- [X] **[C#]** [Entity Framework](https://github.com/oliviamattiazzo/Resumos/tree/master/EntityFramework)
 
 ### Em desenvolvimento
 Oops :woman_shrugging:
