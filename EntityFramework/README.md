@@ -11,7 +11,7 @@ Curso ministrado pelo professor Daniel Portugal na plataforma [Alura](https://cu
 - [X] Aula 05 - [Relacionamentos Um para Muitos no Entity](https://github.com/oliviamattiazzo/Resumos/blob/master/EntityFramework/Aula05_RelacionamentosUmParaMuitosEntity.md)
 - [X] Aula 06 - [Relacionamentos Muitos para Muitos no Entity](https://github.com/oliviamattiazzo/Resumos/blob/master/EntityFramework/Aula06_RelacionamentosMuitosParaMuitosEntity.md)
 - [X] Aula 07 - [Relacionamentos Um para Um no Entity](https://github.com/oliviamattiazzo/Resumos/blob/master/EntityFramework/Aula07_RelacionamentosUmParaUmEntity.md)
-- [ ] Aula 08 - Recuperando objetos relacionados
+- [X] Aula 08 - [Recuperando objetos relacionados](https://github.com/oliviamattiazzo/Resumos/blob/master/EntityFramework/Aula08_RecuperandoObjetosRelacionados.md)
 
 ## Datas
 

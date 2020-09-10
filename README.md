@@ -12,20 +12,10 @@ Então decidi começar a compartilhar as minhas notas aqui, tanto pra mim mesma 
 
 ### Finalizados
 
-Ops, por enquanto não tenho nada finalizado! 😅
-
-Você pode conferir acima o progresso dos resumos de cada curso.
+- [ ] **[C#]** [Entity Framework](https://github.com/oliviamattiazzo/Resumos/tree/master/EntityFramework)
 
 ### Em desenvolvimento
-- [ ] **[C#]** [Entity Framework](https://github.com/oliviamattiazzo/Resumos/tree/master/EntityFramework)
-    - [X] Aula 01
-    - [X] Aula 02
-    - [X] Aula 03
-    - [X] Aula 04
-    - [X] Aula 05
-    - [X] Aula 06
-    - [X] Aula 07
-    - [ ] Aula 08
+Oops :woman_shrugging:
 
 ### À fazer
 
