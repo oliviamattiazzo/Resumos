@@ -19,7 +19,7 @@ Então decidi começar a compartilhar as minhas notas aqui, tanto pra mim mesma 
 - [ ] **[CSS]** [Imersão CSS da Alura](https://github.com/oliviamattiazzo/Resumos/tree/master/ImersaoCSS)
     - [X] Aula 01
     - [X] Aula 02
-    - [ ] Aula 03
+    - [X] Aula 03
     - [ ] Aula 04
     - [ ] Aula 05
 
