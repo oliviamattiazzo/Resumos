@@ -20,7 +20,7 @@ Então decidi começar a compartilhar as minhas notas aqui, tanto pra mim mesma 
     - [X] Aula 01
     - [X] Aula 02
     - [X] Aula 03
-    - [ ] Aula 04
+    - [X] Aula 04
     - [ ] Aula 05
 
 ### À fazer
