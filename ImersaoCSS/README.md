@@ -8,7 +8,7 @@ Curso ministrado pelas professoras Vanessa Tonini e Juliana Amoasei da [Alura](h
 - [X] Aula 02 - [Sites responsivos](https://github.com/oliviamattiazzo/Resumos/blob/master/ImersaoCSS/Aula02_SitesResponsivos.md)
 - [X] Aula 03 - [Colunas e linhas](https://github.com/oliviamattiazzo/Resumos/blob/master/ImersaoCSS/Aula03_ColunasLinhas.md)
 - [X] Aula 04 - [Animando tudo!](https://github.com/oliviamattiazzo/Resumos/blob/master/ImersaoCSS/Aula04_AnimandoTudo.md)
-- [ ] Aula 05 - Efeitos visuais
+- [X] Aula 05 - [Efeitos visuais](https://github.com/oliviamattiazzo/Resumos/blob/master/ImersaoCSS/Aula05_EfeitosVisuais.md)
 
 ## Datas
 

@@ -51,7 +51,7 @@ Observação: esse resumo foi elaborado no dia 22/05/2020.
 * `:active` → para mobile
     * Quando o usuário toca no elemento
 
-### → Criando uma animaçºao para usar na propriedade
+### → Criando uma animação para usar na propriedade
 * `@keyframes` → declaração da animação
     ```css
     @keyframes animacaoTitulo { }
