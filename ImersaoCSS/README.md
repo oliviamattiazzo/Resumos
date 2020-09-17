@@ -16,4 +16,4 @@ Curso ministrado pelas professoras Vanessa Tonini e Juliana Amoasei da [Alura](h
 
 **Finalizado em:** 22/05/2020
 
-**Última atualização destes resumos em:** 10/09/2020
+**Última atualização destes resumos em:** 16/09/2020

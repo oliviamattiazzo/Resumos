@@ -17,11 +17,15 @@ Então decidi começar a compartilhar as minhas notas aqui, tanto pra mim mesma 
 
 ### Em desenvolvimento
 
-Oops :woman_shrugging:
+- [ ] **[C#]** Testes de Unidade Com xUnit
+    - [X] Aula 01
+    - [ ] Aula 02
+    - [ ] Aula 03
+    - [ ] Aula 04
+    - [ ] Aula 05
 
 ### À fazer
 
-- [ ] **[C#]** Testes de Unidade Com xUnit
 - [ ] **[Redes sociais]** Twitter
 - [ ] **[Javascript]** Browser e padrões de projeto
 - [ ] **[Marketing Digital]** Introdução à SEO
