@@ -17,7 +17,7 @@ Então decidi começar a compartilhar as minhas notas aqui, tanto pra mim mesma 
 
 ### Em desenvolvimento
 
-- [ ] **[C#]** Testes de Unidade Com xUnit
+- [ ] **[C#]** [Testes de Unidade Com xUnit](https://github.com/oliviamattiazzo/Resumos/tree/master/TestesUnidadeTDDxUnit)
     - [X] Aula 01
     - [ ] Aula 02
     - [ ] Aula 03
