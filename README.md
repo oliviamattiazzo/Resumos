@@ -30,6 +30,7 @@ Então decidi começar a compartilhar as minhas notas aqui, tanto pra mim mesma 
 - [ ] **[Javascript]** Browser e padrões de projeto
 - [ ] **[Marketing Digital]** Introdução à SEO
 - [ ] **[C#]** Refatoração
+- [ ] **[C#]** Tipo dinâmico
 
 ## Créditos
 
