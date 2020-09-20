@@ -20,7 +20,7 @@ Então decidi começar a compartilhar as minhas notas aqui, tanto pra mim mesma 
 - [ ] **[C#]** [Testes de Unidade Com xUnit](https://github.com/oliviamattiazzo/Resumos/tree/master/TestesUnidadeTDDxUnit)
     - [X] Aula 01
     - [X] Aula 02
-    - [ ] Aula 03
+    - [X] Aula 03
     - [ ] Aula 04
     - [ ] Aula 05
 
