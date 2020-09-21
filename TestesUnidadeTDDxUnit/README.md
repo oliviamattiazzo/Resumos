@@ -7,7 +7,7 @@ Curso ministrado pelo professor Daniel Portugal na plataforma [Alura](https://cu
 - [X] Aula 01 - [Promovendo rápido feedback](https://github.com/oliviamattiazzo/Resumos/blob/master/TestesUnidadeTDDxUnit/Aula01_PromovendoRapidoFeedback.md)
 - [X] Aula 02 - [Organizando seus testes](https://github.com/oliviamattiazzo/Resumos/blob/master/TestesUnidadeTDDxUnit/Aula02_OrganizandoSeusTestes.md)
 - [X] Aula 03 - [Não deixe o sistema regredir](https://github.com/oliviamattiazzo/Resumos/blob/master/TestesUnidadeTDDxUnit/Aula03_NaoDeixeSistemaRegredir.md)
-- [ ] Aula 04 - Testando todos os comportamentos
+- [X] Aula 04 - [Testando todos os comportamentos](https://github.com/oliviamattiazzo/Resumos/blob/master/TestesUnidadeTDDxUnit/Aula04_TestandoTodosComportamentos.md)
 - [ ] Aula 05 - Ajudando no design do código
 
 ## Datas
