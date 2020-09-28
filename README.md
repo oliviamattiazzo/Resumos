@@ -18,12 +18,17 @@ Então decidi começar a compartilhar as minhas notas aqui, tanto pra mim mesma 
 
 ### Em desenvolvimento
 
-:hourglass_flowing_sand:
+- [ ] **[Javascript]** [Browser e padrões de projeto](https://github.com/oliviamattiazzo/Resumos/tree/master/JavascriptAvancado1)
+    - [X] Aula 01
+    - [ ] Aula 02
+    - [ ] Aula 03
+    - [ ] Aula 04
+    - [ ] Aula 05
+    - [ ] Aula 06
 
 ### À fazer
 
 - [ ] **[Redes sociais]** Twitter
-- [ ] **[Javascript]** Browser e padrões de projeto
 - [ ] **[Marketing Digital]** Introdução à SEO
 - [ ] **[C#]** Refatoração
 - [ ] **[C#]** Tipo dinâmico
