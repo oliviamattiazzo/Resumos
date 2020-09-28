@@ -18,6 +18,8 @@ Observação: esse resumo foi elaborado no dia 05/07/2020, se houve alguma atual
     * Objetivos → transformar o design em sistemas mais flexíveis, fáceis de manter e de entender
     * Princípio **S** fala sobre a  facilidade de um sistema em ser mantido
     * Cuidado com o alto acoplamento!
+    
+:eight_spoked_asterisk: Testes de regressão também ajudam quando há um redesign nas classes
 
 ### :back: SOLID
 * **S**ingle responsibility principle
@@ -25,5 +27,3 @@ Observação: esse resumo foi elaborado no dia 05/07/2020, se houve alguma atual
 * **L**iskov substitution principle
 * **I**nterface segregation principle
 * **D**ependency inversion principle
-
-:eight_spoked_asterisk: Testes de regressão também ajudam quando há um redesign nas classes
