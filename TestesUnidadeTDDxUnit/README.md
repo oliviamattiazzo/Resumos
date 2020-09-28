@@ -16,4 +16,4 @@ Curso ministrado pelo professor Daniel Portugal na plataforma [Alura](https://cu
 
 **Finalizado em:** 05/07/2020
 
-**Última atualização destes resumos em:** 22/09/2020
+**Última atualização destes resumos em:** 28/09/2020
