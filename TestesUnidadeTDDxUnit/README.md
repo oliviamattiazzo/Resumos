@@ -8,7 +8,7 @@ Curso ministrado pelo professor Daniel Portugal na plataforma [Alura](https://cu
 - [X] Aula 02 - [Organizando seus testes](https://github.com/oliviamattiazzo/Resumos/blob/master/TestesUnidadeTDDxUnit/Aula02_OrganizandoSeusTestes.md)
 - [X] Aula 03 - [Não deixe o sistema regredir](https://github.com/oliviamattiazzo/Resumos/blob/master/TestesUnidadeTDDxUnit/Aula03_NaoDeixeSistemaRegredir.md)
 - [X] Aula 04 - [Testando todos os comportamentos](https://github.com/oliviamattiazzo/Resumos/blob/master/TestesUnidadeTDDxUnit/Aula04_TestandoTodosComportamentos.md)
-- [ ] Aula 05 - Ajudando no design do código
+- [X] Aula 05 - [Ajudando no design do código](https://github.com/oliviamattiazzo/Resumos/blob/master/TestesUnidadeTDDxUnit/Aula05_AjudandoNoDesignDoCodigo.md)
 
 ## Datas
 
@@ -16,4 +16,4 @@ Curso ministrado pelo professor Daniel Portugal na plataforma [Alura](https://cu
 
 **Finalizado em:** 05/07/2020
 
-**Última atualização destes resumos em:** 17/09/2020
+**Última atualização destes resumos em:** 22/09/2020
