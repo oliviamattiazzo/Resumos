@@ -20,7 +20,7 @@ Então decidi começar a compartilhar as minhas notas aqui, tanto pra mim mesma 
 
 - [ ] **[Javascript]** [Browser e padrões de projeto](https://github.com/oliviamattiazzo/Resumos/tree/master/JavascriptAvancado1)
     - [X] Aula 01
-    - [ ] Aula 02
+    - [X] Aula 02
     - [ ] Aula 03
     - [ ] Aula 04
     - [ ] Aula 05
