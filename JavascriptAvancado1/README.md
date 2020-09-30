@@ -6,7 +6,7 @@ Curso ministrado pelo professor Flávio Almeida na plataforma [Alura](https://cu
 
 - [X] Aula 01 - [Prólogo: regras, código e manutenção](https://github.com/oliviamattiazzo/Resumos/blob/master/JavascriptAvancado1/Aula01_PrologoRegrasCodigoManutencao.md)
 - [X] Aula 02 - [Especificando uma negociação](https://github.com/oliviamattiazzo/Resumos/blob/master/JavascriptAvancado1/Aula02_EspecificandoUmaNegociacao.md)
-- [ ] Aula 03 - A ligação entre as ações do usuário e o modelo
+- [X] Aula 03 - [A ligação entre as ações do usuário e o modelo](https://github.com/oliviamattiazzo/Resumos/blob/master/JavascriptAvancado1/Aula03_LigacaoEntreAcoesUsuarioModelo.md)
 - [ ] Aula 04 - Lidar com data é trabalhoso? Chame um ajudante!
 - [ ] Aula 05 - Temos o modelo, mas e a view?
 - [ ] Aula 06 - Generalizando a solução da nossa view
