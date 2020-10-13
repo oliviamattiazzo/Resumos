@@ -26,6 +26,8 @@ Então decidi começar a compartilhar as minhas notas aqui, tanto pra mim mesma 
 - [ ] **[Marketing Digital]** Introdução à SEO
 - [ ] **[C#]** Refatoração
 - [ ] **[C#]** Tipo dinâmico
+- [ ] **[Teoria]** Versionamento semântico
+- [ ] **[Teoria]** Como a Internet funciona
 
 ## Créditos
 
