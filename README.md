@@ -15,10 +15,11 @@ Então decidi começar a compartilhar as minhas notas aqui, tanto pra mim mesma 
 - [X] **[C#]** [Entity Framework](https://github.com/oliviamattiazzo/Resumos/tree/master/EntityFramework)
 - [X] **[CSS]** [Imersão CSS da Alura](https://github.com/oliviamattiazzo/Resumos/tree/master/ImersaoCSS)
 - [X] **[C#]** [Testes de Unidade Com xUnit](https://github.com/oliviamattiazzo/Resumos/tree/master/TestesUnidadeTDDxUnit)
+- [X] **[Javascript]** [Browser e padrões de projeto](https://github.com/oliviamattiazzo/Resumos/tree/master/JavascriptAvancado1)
 
 ### Em desenvolvimento
 
-- [ ] **[Javascript]** [Browser e padrões de projeto](https://github.com/oliviamattiazzo/Resumos/tree/master/JavascriptAvancado1)
+Loading... :hourglass_flowing_sand:
 
 ### À fazer
 
