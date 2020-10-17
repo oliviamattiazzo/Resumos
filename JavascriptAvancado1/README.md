@@ -15,6 +15,6 @@ Curso ministrado pelo professor Flávio Almeida na plataforma [Alura](https://cu
 
 **Curso iniciado em:** 14/07/2020
 
-**Finalizado em:** 14/10/2020
+**Finalizado em:** 23/07/2020
 
 **Última atualização destes resumos em:** 14/10/2020

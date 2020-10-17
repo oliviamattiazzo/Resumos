@@ -19,13 +19,12 @@ Então decidi começar a compartilhar as minhas notas aqui, tanto pra mim mesma 
 
 ### Em desenvolvimento
 
-Loading... :hourglass_flowing_sand:
+- [ ] **[C#]** [Refatoração](https://github.com/oliviamattiazzo/Resumos/tree/master/CSharpRefatoracao1)
 
 ### À fazer
 
 - [ ] **[Redes sociais]** Twitter
 - [ ] **[Marketing Digital]** Introdução à SEO
-- [ ] **[C#]** Refatoração
 - [ ] **[C#]** Tipo dinâmico
 - [ ] **[Teoria]** Versionamento semântico
 - [ ] **[Teoria]** Como a Internet funciona
