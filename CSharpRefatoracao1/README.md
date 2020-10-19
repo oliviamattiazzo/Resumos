@@ -5,7 +5,7 @@ Curso ministrado pelo professor Marcelo Oliveira na plataforma [Alura](https://c
 ## Índice de resumos
 
 - [X] Aula 01 - [Extraindo e incorporando métodos](https://github.com/oliviamattiazzo/Resumos/blob/master/CSharpRefatoracao1/Aula01_ExtraindoIncorporandoMetodos.md)
-- [ ] Aula 02 - Extraindo e incorporando variáveis temporárias
+- [X] Aula 02 - [Extraindo e incorporando variáveis temporárias](https://github.com/oliviamattiazzo/Resumos/blob/master/CSharpRefatoracao1/Aula02_ExtraindoIncorporandoVariaveisTemporarias.md)
 - [ ] Aula 03 - Quebrando Variáveis e Preservando Parâmetros
 - [ ] Aula 04 - Substituindo Método
 - [ ] Aula 05 - Movendo Método e Campo
