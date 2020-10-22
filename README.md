@@ -20,6 +20,7 @@ Então decidi começar a compartilhar as minhas notas aqui, tanto pra mim mesma 
 ### Em desenvolvimento
 
 - [ ] **[C#]** [Refatoração](https://github.com/oliviamattiazzo/Resumos/tree/master/CSharpRefatoracao1)
+- [ ] **[Teoria]** [Como a Internet funciona](https://github.com/oliviamattiazzo/Resumos/master/ResumosIndividuais)
 
 ### À fazer
 
@@ -27,7 +28,6 @@ Então decidi começar a compartilhar as minhas notas aqui, tanto pra mim mesma 
 - [ ] **[Marketing Digital]** Introdução à SEO
 - [ ] **[C#]** Tipo dinâmico
 - [ ] **[Teoria]** Versionamento semântico
-- [ ] **[Teoria]** Como a Internet funciona
 
 ## Créditos
 
