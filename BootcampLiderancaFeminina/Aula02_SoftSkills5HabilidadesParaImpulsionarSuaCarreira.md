@@ -87,9 +87,11 @@
 * Coaching vs. Teaching vs. Mentoring
 * Coaching ajuda a desenvolver as questões que você deseja
 > Each person's greatest room for growth is in the areas of his or her greatest strenght.
+>
 > Buckingham & Clifton
 
 > Great Leaders are not defined by the absence of weaknesses, but rather the possession of few profund strengths
+>
 > John Peter Zenger
 
 #### Modelo de Desenvolvimento Microsoft
