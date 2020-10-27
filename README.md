@@ -20,8 +20,8 @@ Então decidi começar a compartilhar as minhas notas aqui, tanto pra mim mesma 
 ### Em desenvolvimento
 
 - [ ] **[C#]** [Refatoração](https://github.com/oliviamattiazzo/Resumos/tree/master/CSharpRefatoracao1)
-- [ ] **[Teoria]** [Como a Internet funciona](https://github.com/oliviamattiazzo/Resumos/master/ResumosIndividuais)
-- [ ] **[Soft skills]** [Bootcamp Liderança Feminina](https://github.com/oliviamattiazzo/Resumos/master/BootcampLiderancaFeminina)
+- [ ] **[Teoria]** [Como a Internet funciona](https://github.com/oliviamattiazzo/Resumos/tree/master/ResumosIndividuais)
+- [ ] **[Soft skills]** [Bootcamp Liderança Feminina](https://github.com/oliviamattiazzo/Resumos/tree/master/BootcampLiderancaFeminina)
 
 ### À fazer
 
