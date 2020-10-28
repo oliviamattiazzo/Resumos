@@ -9,7 +9,7 @@ Datas: entre 26/10/2020 e 18/11/2020
 - [X] Aula 00 - [Introdução](https://github.com/oliviamattiazzo/Resumos/blob/master/BootcampLiderancaFeminina/Aula00_Introducao.md)
 - [X] Aula 01 - [Design Thinking Para Felicidade](https://github.com/oliviamattiazzo/Resumos/blob/master/BootcampLiderancaFeminina/Aula01_DesignThinkingParaFelicidade.md)
 - [X] Aula 02 - [Soft Skills: 5 principais habilidades para impulsionar sua carreira](https://github.com/oliviamattiazzo/Resumos/blob/master/BootcampLiderancaFeminina/Aula02_SoftSkills5HabilidadesParaImpulsionarSuaCarreira.md)
-- [ ] Aula 03 - O novo mundo de trabalho e Work Life Balance (Equilíbrio entre vida pessoal e carreira)
+- [X] Aula 03 - [O novo mundo de trabalho e Work Life Balance (Equilíbrio entre vida pessoal e carreira)](https://github.com/oliviamattiazzo/Resumos/blob/master/BootcampLiderancaFeminina/Aula03_NovoMundoTrabalhoWorkLifeBalance.md)
 - [ ] Aula 04 - Mindfulness como estratégia de carreira
 - [ ] Aula 05 - Protagonismo e planejamento de carreira
 - [ ] Aula 06 - Personal branding: LinkedIn, Networking e mais!
