@@ -123,3 +123,6 @@
 
 ## Conta com modelo do GROW
 * [@carreiradicas](https://www.instagram.com/carreiradicas/)
+
+### Dúvidas
+* Usar momentos de baixa como alavancador → não precisa morrer no emprego ruim

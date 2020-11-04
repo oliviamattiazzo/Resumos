@@ -12,7 +12,7 @@ Datas: entre 26/10/2020 e 18/11/2020
 - [X] Aula 03 - [O novo mundo de trabalho e Work Life Balance (Equilíbrio entre vida pessoal e carreira)](https://github.com/oliviamattiazzo/Resumos/blob/master/BootcampLiderancaFeminina/Aula03_NovoMundoTrabalhoWorkLifeBalance.md)
 - [X] Aula 04 - [Mindfulness como estratégia de carreira](https://github.com/oliviamattiazzo/Resumos/blob/master/BootcampLiderancaFeminina/Aula04_MindfulnessComoEstrategiaDeCarreira.md)
 - [X] Aula 05 - [Protagonismo e planejamento de carreira](https://github.com/oliviamattiazzo/Resumos/blob/master/BootcampLiderancaFeminina/Aula05_ProtagonismoPlanejamentoCarreira.md)
-- [ ] Aula 06 - Personal branding: LinkedIn, Networking e mais!
+- [X] Aula 06 - [Personal branding: LinkedIn, Networking e mais!](https://github.com/oliviamattiazzo/Resumos/blob/master/BootcampLiderancaFeminina/Aula06_PersonalBranding.md)
 - [ ] Aula 07 - Comunicaçºao estratégica e seu impacto
 - [ ] Aula 08 - Protagonismo e resiliência na carreira
 - [ ] Aula 09 - Independência financeira: como cuidar do meu dinheiro
