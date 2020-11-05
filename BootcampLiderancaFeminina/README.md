@@ -13,7 +13,7 @@ Datas: entre 26/10/2020 e 18/11/2020
 - [X] Aula 04 - [Mindfulness como estratégia de carreira](https://github.com/oliviamattiazzo/Resumos/blob/master/BootcampLiderancaFeminina/Aula04_MindfulnessComoEstrategiaDeCarreira.md)
 - [X] Aula 05 - [Protagonismo e planejamento de carreira](https://github.com/oliviamattiazzo/Resumos/blob/master/BootcampLiderancaFeminina/Aula05_ProtagonismoPlanejamentoCarreira.md)
 - [X] Aula 06 - [Personal branding: LinkedIn, Networking e mais!](https://github.com/oliviamattiazzo/Resumos/blob/master/BootcampLiderancaFeminina/Aula06_PersonalBranding.md)
-- [ ] Aula 07 - Comunicaçºao estratégica e seu impacto
+- [X] Aula 07 - [Comunicação estratégica e seu impacto](https://github.com/oliviamattiazzo/Resumos/blob/master/BootcampLiderancaFeminina/Aula07_ComunicacaoEstrategicaSeuImpacto.md)
 - [ ] Aula 08 - Protagonismo e resiliência na carreira
 - [ ] Aula 09 - Independência financeira: como cuidar do meu dinheiro
 - [ ] Aula 10 - Independência financeira: como começar a investir
