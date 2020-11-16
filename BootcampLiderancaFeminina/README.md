@@ -17,7 +17,7 @@ Datas: entre 26/10/2020 e 18/11/2020
 - [X] Aula 08 - [Protagonismo e resiliência na carreira](https://github.com/oliviamattiazzo/Resumos/blob/master/BootcampLiderancaFeminina/Aula08_ProtagonismoResilienciaCarreira.md)
 - [X] Aula 09 - [Independência financeira: como cuidar do meu dinheiro](https://github.com/oliviamattiazzo/Resumos/blob/master/BootcampLiderancaFeminina/Aula09_IndependenciaFinanceiraComoCuidarMeuDinheiro.md)
 - [X] Aula 10 - [Independência financeira: como começar a investir](https://github.com/oliviamattiazzo/Resumos/blob/master/BootcampLiderancaFeminina/Aula10_IndependenciaFinanceiraComoComecarInvestir.md)
-- [ ] Aula 11 - Como entrevistar e desenvolver um plano de crescimento para mulheres em sua empresa?
+- [X] Aula 11 - [Como entrevistar e desenvolver um plano de crescimento para mulheres em sua empresa?](https://github.com/oliviamattiazzo/Resumos/blob/master/BootcampLiderancaFeminina/Aula11_ComoEntrevistarEDesenvolverMulheresNaEmpresa.md)
 - [ ] Aula 12 - Cultura & mentalidade de crescimento
 
 ## Datas
