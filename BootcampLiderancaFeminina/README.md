@@ -22,6 +22,6 @@ Datas: entre 26/10/2020 e 18/11/2020
 
 ## Datas
 
-**Curso iniciado em:** 26/08/2020
+**Curso iniciado em:** 26/10/2020
 
-**Finalizado em:** :hourglass_flowing_sand: Em andamento 
+**Finalizado em:** 18/11/2020

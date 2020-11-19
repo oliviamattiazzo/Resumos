@@ -1,12 +1,30 @@
 # Aula 12 - A Jornada de Transformação da Microsoft
 
 **Sobre:** aula ministrada dia 18/11/2020, por Tania Cosentino, no Bootcamp de Liderança Feminina, organizado pela Microsoft e WomakersCode.
-* https://www.youtube.com/watch?v=pYSY6-pPwiQ&ab_channel=WoMakersCode
 
 ## Palestrantes
 * **Tania Cosentino**
     * Presidente
     * Microsoft Brasil
+
+### Objetivo pessoal da Tania
+* Incentivar e habilitar o desenvolvimento de soluções sustentáveis que vão gerar valor para os negócios dos nossos clientes e parceiros
+
+### Lugar de mulher é onde ela quiser mas...
+* É necessário abrir porta para outras mulheres, especialmente quando falando de liderança no topo das organizações
+
+### Pilares da diversidade
+* Mulheres
+* Raça
+* Pessoas com deficiência
+* Pessoas LGBTQIA+
+
+> Nossa indústria não respeita a tradição - só respeita a inovação.
+>
+> Satya Nadella, CEO da Microsoft
+* Satya renovou o portfolio senão Microsoft não sobreviveria por mais 10 anos
+* Empresa também precisava de uma transformação cultural e digital
+    * Transformar líderes e organização
 
 ### Mudança de cultura leva tempo
 * Comportamento

@@ -16,12 +16,12 @@ Então decidi começar a compartilhar as minhas notas aqui, tanto pra mim mesma 
 - [X] **[CSS]** [Imersão CSS da Alura](https://github.com/oliviamattiazzo/Resumos/tree/master/ImersaoCSS)
 - [X] **[C#]** [Testes de Unidade Com xUnit](https://github.com/oliviamattiazzo/Resumos/tree/master/TestesUnidadeTDDxUnit)
 - [X] **[Javascript]** [Browser e padrões de projeto](https://github.com/oliviamattiazzo/Resumos/tree/master/JavascriptAvancado1)
+- [X] **[Soft skills]** [Bootcamp Liderança Feminina](https://github.com/oliviamattiazzo/Resumos/tree/master/BootcampLiderancaFeminina)
 
 ### Em desenvolvimento
 
 - [ ] **[C#]** [Refatoração](https://github.com/oliviamattiazzo/Resumos/tree/master/CSharpRefatoracao1)
 - [ ] **[Teoria]** [Como a Internet funciona](https://github.com/oliviamattiazzo/Resumos/tree/master/ResumosIndividuais)
-- [ ] **[Soft skills]** [Bootcamp Liderança Feminina](https://github.com/oliviamattiazzo/Resumos/tree/master/BootcampLiderancaFeminina)
 
 ### À fazer
 
